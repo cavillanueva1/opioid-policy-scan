@@ -6,8 +6,6 @@ The Opioid Environment Policy Scan (OEPS) is a free, open-source database provid
 
 This project was developed for the Methodology and Advanced Analytics Resource Center (MAARC) of the Justice Community Opioids Innovation Network (JCOIN), an NIH HEAL Initative. Data is also available JCOIN Network through the [JCOIN Data Commons](https://jcoin.datacommons.io/).
 
-In addition to data, this GitHub repository stores scripts used to clean and prepare data for inclusion in the OEPS and a metadata page for each dataset.  The [Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing) provides additional metadata and descriptions. The OEPS will be further developed as a web map to allow users to explore the data visually. 
-
 Contact [Susan Paykin](mailto:spaykin@uchicago.edu) with any questions. 
 
 ## Documentation
