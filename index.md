@@ -107,15 +107,17 @@ For more information about the individual variables, please refer to the data di
 <br>
 
 ### COVID Variables
+
 | Variable Construct | Variable Proxy | Source | Metadata | Spatial Scale | 
 |:------------------ | -------------- | ------ | -------- | ------------- | 
-| Essential Worker Jobs | Percentage of population employed in Essential Jobs as defined during the COVID-19 pandemic | ACS, 2014-2018 | EC02 / [Jobs by Occupation](/data_final/metadata/Job_Categories_byOccupation_2018.md) | State, County, Tract, Zip | 
-| Cumulative Case Count | Daily cumulative raw case count (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID01 / [COVID Variables](/data_final/metadata/COVID.md) | State, County | 
-| Adjusted Case Count per 100K | Daily cumulative adjusted case count per 100K population (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID02 / [COVID Variables](/data_final/metadata/COVID.md) | State, County |
-| 7-day Average Case Count | 7-day average case count (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID03 / [COVID Variables](/data_final/metadata/COVID.md) | State, County | 
-| Historical 7-day Average Adjusted Case Count per 100K | 7-day average adjusted case count per 100K population (01/21/20 - 03/03/2021)| The New York Times, 2021 | COVID04 / [COVID Variables](/data_final/metadata/COVID.md) | State, County | 
+| Essential Worker Jobs | Percentage of population employed in Essential Jobs as defined during the COVID-19 pandemic | ACS, 2014-2018 | EC02 / [Jobs by Occupation](/data_final/metadata/Job_Categories_byOccupation_2018.md) | State, County, Tract, Zip |  
+| Cumulative Case Count | Daily cumulative raw case count (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID01 / [COVID Variables](/data_final/metadata/COVID.md) | State, County |  
+| Adjusted Case Count per 100K | Daily cumulative adjusted case count per 100K population (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID02 / [COVID Variables](/data_final/metadata/COVID.md) | State, County |  
+| 7-day Average Case Count | 7-day average case count (01/21/20 - 03/03/2021) | The New York Times, 2021 | COVID03 / [COVID Variables](/data_final/metadata/COVID.md) | State, County |  
+| Historical 7-day Average Adjusted Case Count per 100K | 7-day average adjusted case count per 100K population (01/21/20 - 03/03/2021)| The New York Times, 2021 | COVID04 / [COVID Variables](/data_final/metadata/COVID.md) | State, County |  
 
 ## Citation
+
 Marynia Kolak, Qinyun Lin, Susan Paykin, Moksha Menghaney, & Angela Li. (2021, May 11). GeoDaCenter/opioid-policy-scan: *Opioid Environment Policy Scan Data Warehouse* (Version v0.1-beta). Zenodo. http://doi.org/10.5281/zenodo.4747876
 
 ## Team
