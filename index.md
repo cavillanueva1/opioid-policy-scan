@@ -11,7 +11,7 @@ The Opioid Environment Policy Scan is a database providing access to data at mul
 
 This repository stores scripts used to wrangle, clean, join, and visualize data for the Opioid Environment Policy Scan, available to the JCOIN Network through the JCOIN Data Commons. The [Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing) provides metadata and descriptions for variable constructs included in the Policy Scan. The Policy Scan will be further developed as a data visualization product to characterize the multi-dimensional risk environment impacting the opioid crisis in the United States.
 
-Contact Susan Paykin at spaykin at uchicago dot edu with any questions. 
+Contact [Susan Paykin](spaykin@uchicago.edu) with any questions. 
 
 ## Documentation
 Please refer to the [Data Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing). 
