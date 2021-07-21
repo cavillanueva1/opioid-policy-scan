@@ -21,8 +21,8 @@ Variable constructs have been grouped thematically to highlight the multi-dimens
 
 | Variable Construct | Variable Proxy | Source | Metadata | Spatial Scale | 
 |:------------------ | :------------- | :----- | :------- | :------------ | 
-| Geographic Boundaries | State, County, Census Tract, Zip Code Tract Area (ZCTA) | US Census, 2018 | [Geographic Boundaries](https://github.com/GeoDaCenter/opioid-policy-scan/data_final/metadata/GeographicBoundaries_2018.md) | State, County, Tract, Zip |
-| Crosswalk files | County, Census Tract, Zip Code Tract Area (ZCTA) | HUD’s Office of Policy Development and Research (PD&R) | [Crosswalk Files](dhttps://github.com/GeoDaCenter/opioid-policy-scan/ata_final/metadata/crosswalk.md) | County, Tract, Zip |
+| Geographic Boundaries | State, County, Census Tract, Zip Code Tract Area (ZCTA) | US Census, 2018 | [Geographic Boundaries](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/GeographicBoundaries_2018.md) | State, County, Tract, Zip |
+| Crosswalk files | County, Census Tract, Zip Code Tract Area (ZCTA) | HUD’s Office of Policy Development and Research (PD&R) | [Crosswalk Files](https://github.com/GeoDaCenter/opioid-policy-scan/master/data_final/metadata/crosswalk.md) | County, Tract, Zip |
 
 ### Policy Variables
 
