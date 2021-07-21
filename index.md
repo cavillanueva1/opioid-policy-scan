@@ -1,10 +1,12 @@
 ## About
 
-The Opioid Environment Policy Scan is a database providing access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States. We used a risk environment framework ([Rhodes 2009](https://www.sciencedirect.com/science/article/pii/S095539590800203X?via%3Dihub)) to guide data selection for the Opioid Environment Policy Scan. Data were stratified into six spheres of influence: Policy, Health, Demographic, Economic, Physical Environment, and COVID-19. The warehouse includes 45 data variable constructs across spheres characterizing the opioid use risk environment across U.S. geographies and spatial scales at the Census tract, ZIP Code Tract Area (ZCTA), county, and state levels. 
+The Opioid Environment Policy Scan (OEPS) is a free, open-source database providing access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States. We used a [risk environment framework](https://www.sciencedirect.com/science/article/pii/S0955395902000075) to guide data selection, stratifying all data across six spheres of influence: Policy, Health, Demographic, Economic, Physical Environment, and COVID-19 factors. The database includes more than four dozen variable constructs ranging across thematic spheres, relevant to research and analyses of opioid environments across U.S. geographies at different spatial scales, including Census tract, ZIP Code Tract Area (ZCTA), county, and state levels.
 
-This repository stores scripts used to wrangle, clean, join, and visualize data for the Opioid Environment Policy Scan, available to the JCOIN Network through the JCOIN Data Commons. The [Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing) provides metadata and descriptions for variable constructs included in the Policy Scan. The Policy Scan will be further developed as a data visualization product to characterize the multi-dimensional risk environment impacting the opioid crisis in the United States.
+This project was developed for the Methodology and Advanced Analytics Resource Center (MAARC) of the Justice Community Opioids Innovation Network (JCOIN), an NIH HEAL Initative. Data is also available JCOIN Network through the [JCOIN Data Commons](https://jcoin.datacommons.io/).
 
-Contact [Susan Paykin](spaykin@uchicago.edu) with any questions. 
+In addition to data, this GitHub repository stores scripts used to clean and prepare data for inclusion in the OEPS and a metadata page for each dataset.  The [Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing) provides additional metadata and descriptions. The OEPS will be further developed as a web map to allow users to explore the data visually. 
+
+Contact [Susan Paykin](mailto:spaykin@uchicago.edu) with any questions. 
 
 ## Documentation
 Please refer to the [Data Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing). 
@@ -12,8 +14,6 @@ Please refer to the [Data Documentation](https://docs.google.com/document/d/18NP
 ## Data Overview
 
 Variable constructs have been grouped thematically to highlight the multi-dimensional risk environment of opioid use in justice populations.  The variable themes are: **Geographic Boundaries, Policy, Health, Demographic, Economic, Physical Environment,** and **COVID-19**.
-
-For more information about the individual variables, please refer to the data dictionary in the complete [Documentation](https://docs.google.com/document/d/18NPWpuUfFTrKll9_ERHzVDmpNCETTzwjJt_FsIvmSrc/edit?usp=sharing).
 
 ### Geographic Boundaries
 
