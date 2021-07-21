@@ -1,10 +1,3 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# Opioid Environment Policy Scan (OEPS) Database
-
-*Updated July 2021*
-
 ## About
 
 The Opioid Environment Policy Scan is a database providing access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States. We used a risk environment framework ([Rhodes 2009](https://www.sciencedirect.com/science/article/pii/S095539590800203X?via%3Dihub)) to guide data selection for the Opioid Environment Policy Scan. Data were stratified into six spheres of influence: Policy, Health, Demographic, Economic, Physical Environment, and COVID-19. The warehouse includes 45 data variable constructs across spheres characterizing the opioid use risk environment across U.S. geographies and spatial scales at the Census tract, ZIP Code Tract Area (ZCTA), county, and state levels. 
