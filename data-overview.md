@@ -1,6 +1,8 @@
+---
+title: Data Overview
 layout: page
-title: "Data Overview"
-permalink: https://geodacenter.github.io/opioid-policy-scan/data-overview/
+filename: data-overview.md
+--- 
 
 ## Data Overview
 
