@@ -1,3 +1,7 @@
+layout: page
+title: "Data Overview"
+permalink: https://geodacenter.github.io/opioid-policy-scan/data-overview/
+
 ## Data Overview
 
 Variable constructs have been grouped thematically to highlight the multi-dimensional risk environment of opioid use in justice populations.  The variable themes are: **Geographic Boundaries, Policy, Health, Demographic, Economic, Physical Environment,** and **COVID-19**.
