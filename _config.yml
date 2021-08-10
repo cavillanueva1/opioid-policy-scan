@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: [Opioid Environment Policy Scan]
-description: [The Opioid Environment Policy Scan database provides access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States.]
+title: Opioid Environment Policy Scan (OEPS)
+description: Database providing access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States.
 show_downloads: ["true"]
