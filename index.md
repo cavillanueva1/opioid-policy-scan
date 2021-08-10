@@ -1,9 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Opioid Environment Policy Scan (OEPS) Database
-
-## About
+## About OEPS
 
 The Opioid Environment Policy Scan (OEPS) is a free, open-source database providing access to data at multiple spatial scales to help characterize the multi-dimensional risk environment impacting opioid use in justice populations across the United States. 
 
