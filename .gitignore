@@ -20,3 +20,16 @@ Vivitrol/cb_2018_us_state_500k/cb_2018_us_state_500k.shp.ea.iso.xml
 Vivitrol/cb_2018_us_state_500k/cb_2018_us_state_500k.shp.iso.xml
 Vivitrol/cb_2018_us_state_500k/cb_2018_us_state_500k.shx
 MOUD_access/.RDataTmp
+.next/*
+node_modules/*
+.env.local
+yarn.lock
+package-lock.json
+.env
+.netlify/*
+.yarn/*
+out/*
+lib/*
+public/context.json
+pages/api/data/keys.js
+pages/api/keys.js
