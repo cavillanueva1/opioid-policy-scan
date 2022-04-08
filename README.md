@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Opioid Environment Policy Scan (OEPS) Database
+# Opioid Environment Policy Scan (OEPS) Data Warehouse
 
 ## Public Site - OEPS Explorer
 Explore, download, and map OEPS data on the [OEPS Explorer](https://oeps.netlify.app/). 
@@ -56,7 +56,7 @@ Variable constructs are grouped thematically below to highlight the multi-dimens
 | Drug-related death rate | Death rate from drug-related causes | CDC WONDER, 2019 10-year | Health01 / [Drug-Related Death Rate](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Health_DrugDeaths.md) | State, County | 
 | Hepatitis C rates | HepC prevalence, mortality | HepVu, 2017 | Health02 / [Hepatitis C](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/HepC_rate.md) | State, County | 
 | Physicians | Number of Primary Care and Specialist Physicians | Dartmouth Atlas, 2010 | Health03 / [Physicians](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Health_PCPs.md) | Tract, County, State | 
-| Access to MOUDs | Distance to nearest MOUD | SAMHSA, Vivitrol, 2020 | Access01 / [Access: MOUDs](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_MOUDs.md) | County, Tract, Zip | 
+| Access to MOUDs | Distance to nearest MOUD | SAMHSA 2019, Vivitrol 2020 | Access01 / [Access: MOUDs](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_MOUDs.md) | County, Tract, Zip | 
 | Access to Health Centers | Distance to nearest FQHC | US COVID Atlas, HRSA, 2020  | Access02 / [Access: FQHCs](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Tract, Zip | 
 | Access to Hospitals | Distance to nearest hospital | CovidCareMap, 2020 |  Access03 / [Access: Hospitals](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Acesss_Hospitals_MinDistance.md) | Tract, Zip |
 | Access to Pharmacies | Distance to nearest pharmacy | InfoGroup, 2018 | Access04 / [Access: Pharmacies](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_Pharmacies_MinDistance.md) | Tract, Zip |
@@ -78,7 +78,7 @@ Variable constructs are grouped thematically below to highlight the multi-dimens
 | Social Vulnerability Index (SVI) | SVI Rankings | CDC, 2018 | DS03 / [SVI](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/SVI_2018.md) | County, Tract, Zip | 
 | Veteran Population | Population as defined by veteran status | ACS, 2018 5-year | DS04 / [Veteran Population Variables](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/VetPop.md) | State, County, Tract, Zip |
 | Household Type | Household Types and Group Quarters Populations | ACS, 2018 5-year | DS05 / [Household Type Variables](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/HouseholdType.md) | State, County, Tract, Zip |
-| Homeless Population | Population as defined by veteran status | HUD, 2018  | DS06 / [Homeless Population Variables](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/HomelessPop.md) | State, County, Tract, Zip |
+| Homeless Population | Homelessness Census Variables | HUD, 2018  | DS06 / [Homeless Population Variables](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/HomelessPop.md) | State, County, Tract, Zip |
 
 <br>
 
@@ -95,7 +95,7 @@ Variable constructs are grouped thematically below to highlight the multi-dimens
 
 <br>
 
-### Built Environment Variables
+### Physical Environment Variables
 
 | Variable Construct | Variable Proxy | Source | Metadata | Spatial Scale | 
 |:------------------ | -------------- | ------ | -------- | ------------- | 
@@ -112,6 +112,8 @@ Variable constructs are grouped thematically below to highlight the multi-dimens
 | Southern Black Belt | US counties where 30% of the population identified as Black or African American | US Census, 2000 | BE04 / [Community Overlays](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Overlay.md) | County | 
 | Native American Reservations | Percent area of total land in Native American Reservations | US Census TIGER/Line, 2018 | BE04 / [Community Overlays](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Overlay.md) | County | 
 | Residential Segregation Indices | Three index measures of segregation: dissimilarity, interaction, isolation | ACS, 2018 5-year | BE05 / [Residential Segregation](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Residential_Seg_Indices.md) | County |
+| NDVI |  Normalized Difference Vegetation Index (NDVI) average value | Sentinel-2 MSI, 2018 | BE06 / [NDVI](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/NDVI.md) | Tract |
+
 
 <br>
 
